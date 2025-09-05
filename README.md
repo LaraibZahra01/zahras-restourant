@@ -1,2 +1,2 @@
-# zahras-restourent
-My First HTML Restourent Website
+# zahras-restaurant
+My First HTML Restaurant Website
